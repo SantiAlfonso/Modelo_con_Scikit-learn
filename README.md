@@ -6,6 +6,14 @@ El núcleo del proyecto radica en el proceso de **Análisis Exploratorio de Dato
 
 ---
 
+## 📊 Reporte Interactivo de Datos
+
+Para explorar a fondo la distribución, las alertas de calidad de datos, el sesgo y las correlaciones analizadas en la fase inicial del proyecto, puedes acceder al reporte interactivo completo generado con Pandas Profiling:
+
+🚀 **[Ver el Análisis Exploratorio de Datos (EDA) Interactivo](https://htmlpreview.github.io/?https://github.com/SantiAlfonso/Modelo_con_Scikit-learn/blob/main/EDA.html)**
+
+---
+
 ## 🛠️ Retos Técnicos y Soluciones Implementadas
 
 ### 1. Eliminación de Multicolinealidad Estricta
